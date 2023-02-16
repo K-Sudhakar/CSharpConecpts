@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AbstractClasses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AbstractClasses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractClasses.dll": {}
+        }
+      },
+      "Casting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Casting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Casting.dll": {}
+        }
+      },
+      "Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inheritance.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interfaces.dll": {}
+        }
+      },
+      "Overriding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Overriding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Overriding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClasses/1.0.0": {
+      "type": "project",
+      "path": "../AbstractClasses/AbstractClasses.csproj",
+      "msbuildProject": "../AbstractClasses/AbstractClasses.csproj"
+    },
+    "Casting/1.0.0": {
+      "type": "project",
+      "path": "../Casting/Casting.csproj",
+      "msbuildProject": "../Casting/Casting.csproj"
+    },
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../Inheritance/Inheritance.csproj",
+      "msbuildProject": "../Inheritance/Inheritance.csproj"
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
+    },
+    "Overriding/1.0.0": {
+      "type": "project",
+      "path": "../Overriding/Overriding.csproj",
+      "msbuildProject": "../Overriding/Overriding.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AbstractClasses >= 1.0.0",
+      "Casting >= 1.0.0",
+      "Inheritance >= 1.0.0",
+      "Interfaces >= 1.0.0",
+      "Overriding >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sudha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\dotnet\\CSharpProj\\CSharpProj\\CSharpProj.csproj",
+      "projectName": "CSharpProj",
+      "projectPath": "D:\\dotnet\\CSharpProj\\CSharpProj\\CSharpProj.csproj",
+      "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnet\\CSharpProj\\CSharpProj\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sudha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\dotnet\\CSharpProj\\AbstractClasses\\AbstractClasses.csproj": {
+              "projectPath": "D:\\dotnet\\CSharpProj\\AbstractClasses\\AbstractClasses.csproj"
+            },
+            "D:\\dotnet\\CSharpProj\\Casting\\Casting.csproj": {
+              "projectPath": "D:\\dotnet\\CSharpProj\\Casting\\Casting.csproj"
+            },
+            "D:\\dotnet\\CSharpProj\\Inheritance\\Inheritance.csproj": {
+              "projectPath": "D:\\dotnet\\CSharpProj\\Inheritance\\Inheritance.csproj"
+            },
+            "D:\\dotnet\\CSharpProj\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\dotnet\\CSharpProj\\Interfaces\\Interfaces.csproj"
+            },
+            "D:\\dotnet\\CSharpProj\\Overriding\\Overriding.csproj": {
+              "projectPath": "D:\\dotnet\\CSharpProj\\Overriding\\Overriding.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

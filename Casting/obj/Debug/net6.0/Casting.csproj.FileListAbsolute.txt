@@ -1,0 +1,12 @@
+D:\dotnet\CSharpProj\Casting\bin\Debug\net6.0\Casting.deps.json
+D:\dotnet\CSharpProj\Casting\bin\Debug\net6.0\Casting.dll
+D:\dotnet\CSharpProj\Casting\bin\Debug\net6.0\Casting.pdb
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.dll
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\refint\Casting.dll
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\Casting.pdb
+D:\dotnet\CSharpProj\Casting\obj\Debug\net6.0\ref\Casting.dll

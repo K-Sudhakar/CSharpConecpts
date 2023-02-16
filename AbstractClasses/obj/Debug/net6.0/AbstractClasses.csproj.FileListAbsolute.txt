@@ -1,0 +1,12 @@
+D:\dotnet\CSharpProj\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+D:\dotnet\CSharpProj\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+D:\dotnet\CSharpProj\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+D:\dotnet\CSharpProj\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll

@@ -1,0 +1,12 @@
+D:\dotnet\CSharpProj\Overriding\bin\Debug\net6.0\Overriding.deps.json
+D:\dotnet\CSharpProj\Overriding\bin\Debug\net6.0\Overriding.dll
+D:\dotnet\CSharpProj\Overriding\bin\Debug\net6.0\Overriding.pdb
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.csproj.AssemblyReference.cache
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfoInputs.cache
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfo.cs
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.csproj.CoreCompileInputs.cache
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.dll
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\refint\Overriding.dll
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\Overriding.pdb
+D:\dotnet\CSharpProj\Overriding\obj\Debug\net6.0\ref\Overriding.dll

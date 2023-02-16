@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharpProj/1.0.0": {
+        "dependencies": {
+          "AbstractClasses": "1.0.0",
+          "Casting": "1.0.0",
+          "Inheritance": "1.0.0",
+          "Interfaces": "1.0.0",
+          "Overriding": "1.0.0"
+        },
+        "runtime": {
+          "CSharpProj.dll": {}
+        }
+      },
+      "AbstractClasses/1.0.0": {
+        "runtime": {
+          "AbstractClasses.dll": {}
+        }
+      },
+      "Casting/1.0.0": {
+        "runtime": {
+          "Casting.dll": {}
+        }
+      },
+      "Inheritance/1.0.0": {
+        "runtime": {
+          "Inheritance.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "runtime": {
+          "Interfaces.dll": {}
+        }
+      },
+      "Overriding/1.0.0": {
+        "runtime": {
+          "Overriding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Overriding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
